@@ -1,7 +1,12 @@
 # Session Generator
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 ![BACKGROUND IMAGE](https://files.catbox.moe/6f05ah.jpg)
 > **A simple and elegant way to generate pairing codes for bots with Malvin Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
-
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 - **Fork**, **Star**, and **Edit** as you wish.
 - **Deploy** on Heroku, Render, or Koyeb with one click.
 - Integrated into **[SUHAIL Pairing Site](https://pairing.ech.web.id)**. 
@@ -9,7 +14,9 @@
 ### **Important Note:**
 This repo generates pairing codes and session IDs for bots using **King Baileys** powered by **mega.js**.
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
 <p align="center">
    <a href="https://github.com/KingZord263">
@@ -20,8 +27,10 @@ This repo generates pairing codes and session IDs for bots using **King Baileys*
 <p align="center">
    <img src="https://profile-counter.glitch.me/{XdKing2}/count.svg" alt="Malvin Xd:: Visitor's Count" />
 </p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
----
 
 ### **Fork & Contribute**
 Feel free to **Fork** or **Star** this repository to contribute or personalize it.
@@ -63,7 +72,9 @@ Deploy the project to your favorite hosting platform with the buttons below:
 
 ---
 
-### **Example Output**
+### **CONTACT DEV**
+![BACKGROUND IMAGE](https://files.catbox.moe/r47u10.jpg)
+* https://wa.me/263718036108
 View the output in action by visiting the **[KING Pairing Site](https://pairing.gh.web.id)**.
 
 ---
