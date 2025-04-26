@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-- **Fork**, **Star**, and **Edit** as you wish.
-- **Deploy** on Heroku, Render, or Koyeb with one click.
-- Integrated into **[SUHAIL Pairing Site](https://pairing.ech.web.id)**. 
+
 
 ### **Important Note:**
 This repo generates pairing codes and session IDs for bots using **King Baileys** powered by **mega.js**.
