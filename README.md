@@ -1,5 +1,5 @@
 # Session Generator
-src="https://files.catbox.moe/6f05ah.jpg" width="500">
+![BACKGROUND IMAGE](https://files.catbox.moe/6f05ah.jpg)
 > **A simple and elegant way to generate pairing codes for bots with Malvin Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
 
 - **Fork**, **Star**, and **Edit** as you wish.
