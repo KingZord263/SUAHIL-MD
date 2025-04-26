@@ -1,4 +1,4 @@
-# Session Generator
+# SUHAIL-XMD Session Generator
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
@@ -36,10 +36,10 @@ This repo generates pairing codes and session IDs for bots using **King Baileys*
 Feel free to **Fork** or **Star** this repository to contribute or personalize it.
 
 <p align="center">
-  <a href="https://github.com/KingZord263/SUHAIL-MD/fork">
+  <a href="https://github.com/KingZord263/SUAHIL-MD/fork">
     <img alt="Fork this repo" src="https://img.shields.io/badge/Fork%20This%20Repo-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/KingZord263/SUHAIL-MD/stargazers">
+  <a href="https://github.com/KingZord263/SUAHIL-MD/stargazers">
     <img alt="Star this repo" src="https://img.shields.io/github/stars/Kingzord263/SUAHIL-MD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
