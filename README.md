@@ -1,10 +1,10 @@
 # Session Generator
-
+src="https://files.catbox.moe/6f05ah.jpg" width="500">
 > **A simple and elegant way to generate pairing codes for bots with Malvin Baileys using mega.js. Easily deployable and ready for integration into your bot system.**
 
 - **Fork**, **Star**, and **Edit** as you wish.
 - **Deploy** on Heroku, Render, or Koyeb with one click.
-- Integrated into **[Nashe Pairing Site](https://pairing.ech.web.id)**. 
+- Integrated into **[SUHAIL Pairing Site](https://pairing.ech.web.id)**. 
 
 ### **Important Note:**
 This repo generates pairing codes and session IDs for bots using **King Baileys** powered by **mega.js**.
@@ -13,7 +13,7 @@ This repo generates pairing codes and session IDs for bots using **King Baileys*
 
 <p align="center">
    <a href="https://github.com/KingZord263">
-    <img src="https://files.catbox.moe/6f05ah.jpg" width="500">
+    <img 
    </a>
 </p>
 
